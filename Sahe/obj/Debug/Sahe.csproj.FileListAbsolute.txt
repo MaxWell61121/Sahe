@@ -1,0 +1,11 @@
+D:\Visualstudio\IATC  C# lessons\Sahe\Sahe\bin\Debug\Sahe.exe.config
+D:\Visualstudio\IATC  C# lessons\Sahe\Sahe\bin\Debug\Sahe.exe
+D:\Visualstudio\IATC  C# lessons\Sahe\Sahe\bin\Debug\Sahe.pdb
+D:\Visualstudio\IATC  C# lessons\Sahe\Sahe\obj\Debug\Sahe.csproj.AssemblyReference.cache
+D:\Visualstudio\IATC  C# lessons\Sahe\Sahe\obj\Debug\Sahe.csproj.SuggestedBindingRedirects.cache
+D:\Visualstudio\IATC  C# lessons\Sahe\Sahe\obj\Debug\Sahe.Properties.Resources.resources
+D:\Visualstudio\IATC  C# lessons\Sahe\Sahe\obj\Debug\Sahe.csproj.GenerateResource.cache
+D:\Visualstudio\IATC  C# lessons\Sahe\Sahe\obj\Debug\Sahe.csproj.CoreCompileInputs.cache
+D:\Visualstudio\IATC  C# lessons\Sahe\Sahe\obj\Debug\Sahe.exe
+D:\Visualstudio\IATC  C# lessons\Sahe\Sahe\obj\Debug\Sahe.pdb
+D:\Visualstudio\IATC  C# lessons\Sahe\Sahe\obj\Debug\Sahe.frm1.resources
